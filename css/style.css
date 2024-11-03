@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+h2{
+    color: royalblue;
+}
+
+p{
+    font-size: 20px;
+}
+
+#link_inicio {
+    font-size: 30px;
+}
+
+#estreia_hoje{
+    color: darkgreen;
+}
+
+#estreia_amanha{
+    color: darkblue;
+}
